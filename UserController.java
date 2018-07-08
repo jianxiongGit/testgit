@@ -27,8 +27,8 @@
 //     * @time 2018-02-06
 //     */
 //    @RequestMapping("/getAuditUser")
-//    public void addUser(@RequestBody String query) {
-syetem.out.println("test")
+//    public void addUser1(@RequestBody String query) {
+syetem.out.println("tew22t")
 //        userService.addUser(query);
     }
 }
