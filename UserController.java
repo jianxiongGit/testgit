@@ -1,4 +1,4 @@
-//package com.hr.mobile.controller;
+﻿//package com.hr.mobile.controller;
 //
 //import com.hr.mobile.service.UserService;
 //import org.springframework.beans.factory.annotation.Autowired;
@@ -28,6 +28,7 @@
 //     */
 //    @RequestMapping("/getAuditUser")
 //    public void addUser(@RequestBody String query) {
+syetem.out.println("test")
 //        userService.addUser(query);
-//    }
-//}
+    }
+}
