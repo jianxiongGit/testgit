@@ -6,6 +6,6 @@ public class Test {
 		for(int i=0; i<90; i++){
 			System.out.println(i);
 		}
-        System.out.println("hello world2");
+        System.out.println("hello world");
     }
 }
